@@ -41,6 +41,8 @@
   - 과일 부셔지는 소리, 떨어지는 소리
 - **Puzzle stage & settings GUI Pack**: https://assetstore.unity.com/packages/2d/gui/puzzle-stage-settings-gui-pack-147389
   - 게임 GUI
+- **DOTween (HOTween v2)**: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+  - 젤리 이동 효과
 - **Font**: https://maplestory.nexon.com/Media/Font
 
 사용한 Asset File들은 저작권 관련 문제가 발생하는 것을 방지하기 위해 업로드에서 제외했습니다.
